@@ -1174,7 +1174,7 @@ input:checked + label .four_list {
     background-color: #ffffff;
 }
 
-.social-link {
+.social-tame {
     margin-right: 40px;
 }
 
@@ -1184,10 +1184,6 @@ input:checked + label .four_list {
     line-height: 1.12;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
-
-.studio {
-    fill: #4d5ae5;
 }
 
 .studio {
